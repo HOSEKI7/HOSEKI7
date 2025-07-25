@@ -12,15 +12,12 @@
 
 ###
 
+
+![Header](img/github-header-image.png)
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HOSEKI7.HOSEKI7&"  />
 </div>
-
-###
-
-<h1 align="center">Hello World!, I'm  HOSEKI 👋</h1>
-
-###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
