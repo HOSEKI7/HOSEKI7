@@ -1,4 +1,6 @@
-![Header](img/github-header-image.png)
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
@@ -13,6 +15,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HOSEKI7.HOSEKI7&"  />
 </div>
+
+###
+
+<h1 align="center">Hello World!, I'm  HOSEKI 👋</h1>
+
+###
 
 <h2 align="left">👩‍💻  About Me</h2>
 
