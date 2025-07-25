@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">🖥️ Languages</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🛠 Frameworks & Libraries</h3>
+<h3 align="left">🧩 Frameworks & Libraries</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">🛠 Databases</h3>
+<h3 align="left">🗄️ Databases</h3>
 
 ###
 
@@ -158,7 +158,9 @@
   </a>
 </div> -->
 
-###
+
+
+### 🎮 Playing Games
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/pacman-contribution-graph-dark.svg">
@@ -166,7 +168,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/pacman-contribution-graph.svg">
 </picture>
 
-### 🎮 Playing Games
+###
 
 <img src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/snake.svg" alt="Snake animation" />
 
