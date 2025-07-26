@@ -1,6 +1,5 @@
 ![Header](img/github-header-image.png)
 
-
 ###
 
 <div align="center">
@@ -24,7 +23,11 @@
 
 ###
 
-<p align="left">- 🎓 I’m currently an **Informatic Engineering** student on **Universitas Mikroskil**<br>- 🌐 I'm a Web Enthusiast<br>- 📖 I’m currently learning [**React**]("https://react.dev/") and [**NextJS**]("https://nextjs.org/) Framework<br>- 😤 Pronouns: He/Him<br>- ⚡ Fun fact: I cant watching movies or something else while eat</p>
+- 🎓 I’m currently an **Informatic Engineering** student on **Universitas Mikroskil**
+- 🌐 I'm a Web Enthusiast
+- 📖 I’m currently learning [**React**]("https://react.dev/") and [**NextJS**]("https://nextjs.org/) Framework
+- 😤 Pronouns: He/Him
+- ⚡ Fun fact: I cant watching movies or something else while eat
 
 ###
 
@@ -167,8 +170,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/pacman-contribution-graph.svg">
 </picture> -->
-
-###
 
 <img src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/snake.svg" alt="Snake animation" />
 
