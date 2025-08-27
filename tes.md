@@ -172,7 +172,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
