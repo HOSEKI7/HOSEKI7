@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🎓 I’m currently an **Informatic Engineering** student on **Universitas Mikroskil**<br>- 🌐 I'm a Web Enthusiast<br>- 📖 I’m currently learning [**React**]("https://react.dev/") and [**NextJS**]("https://nextjs.org/) Framework<br>- 😤 Pronouns: He/Him<br>- ⚡ Fun fact: I cant watching movies or something else while eat</p>
+<p align="left">- 🎓 I’m currently an **Informatic Engineering** student on **Universitas Mikroskil**<br>- 🌐 I'm a Web Enthusiast<br>- 📖 I’m currently learning [**React**]("https://react.dev/") and [**NextJS**]("https://nextjs.org/) Framework<br>- 😤 Pronouns: He/Him<br>- ⚡ Fun fact: I cant watching movies or something else while eat, cuz i eating way too fast😭</p>
 
 ###
 
