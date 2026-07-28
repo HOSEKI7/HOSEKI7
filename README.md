@@ -126,7 +126,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats</h2>
+<!-- <h2 align="left">🔥   My Stats</h2> -->
 
 ###
 
@@ -168,7 +168,7 @@
   </a>
 </div> -->
 
-### 🎮 Playing Games
+<!-- ### 🎮 Playing Games -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HOSEKI7/HOSEKI7/output/pacman-contribution-graph-dark.svg">
