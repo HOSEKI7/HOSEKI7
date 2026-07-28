@@ -28,11 +28,11 @@
 
 ###
 
-- 🎓 I’m currently an **Informatic Engineering** student on **Universitas Mikroskil**
+- 🎓 I’m currently an **Computer Science** student on **Universitas Mikroskil**
 - 🌐 I'm a Web Enthusiast
-- 📖 I’m currently learning [**React**]("https://react.dev/") and [**NextJS**]("https://nextjs.org/) Framework
+- 📖 I’m currently learning about AI Engineering
 - 😤 Pronouns: He/Him
-- ⚡ Fun fact: I cant watching movies or something else while eat
+- ⚡ Fun fact: I eat very quickly, so i cant watch movies or do something else while eating
 
 ###
 
