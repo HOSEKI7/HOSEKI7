@@ -29,8 +29,8 @@
 ###
 
 - 🎓 I’m currently an **Computer Science** student on **Universitas Mikroskil**
-- 🌐 I'm a Web Enthusiast
-- 📖 I’m currently learning about AI Engineering
+- 🌐 I'm a Software & AI Engineer
+- 📖 I’m currently focusing learn bout AI,ML, & DL
 - 😤 Pronouns: He/Him
 - ⚡ Fun fact: I eat very quickly, so i cant watch movies or do something else while eating
 
