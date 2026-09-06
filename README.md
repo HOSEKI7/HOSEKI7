@@ -28,7 +28,7 @@
 
 ###
 
-- 🎓 I’m currently an **Computer Science** student on **Universitas Mikroskil**
+- 🎓 I’m a fresh graduated **Computer Science** student on **Universitas Mikroskil**
 - 🌐 I'm a Software & AI Engineer
 - 📖 I’m currently focusing learn bout AI,ML, & DL
 - 😤 Pronouns: He/Him
